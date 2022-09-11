@@ -1,0 +1,19 @@
+{
+  "parameters": {
+    "url": {
+      "defaultValue": {
+        "value": "https://mrvbnz.github.io/vbnz/"
+      },
+      "valueType": "STRING"
+    }
+  },
+  "version": {
+    "versionNumber": "1",
+    "updateTime": "2022-09-10T08:33:09.687768Z",
+    "updateUser": {
+      "email": "v.vbnz2013@gmail.com"
+    },
+    "updateOrigin": "CONSOLE",
+    "updateType": "INCREMENTAL_UPDATE"
+  }
+}
